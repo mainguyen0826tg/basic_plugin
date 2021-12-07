@@ -1,0 +1,1 @@
+{"version":3,"file":"domUtilities.d.ts","sourceRoot":"","sources":["../../src/typings/domUtilities.ts"],"names":[],"mappings":"AACA;;GAEG;AAEH,MAAM,WAAW,OAAO;IACpB,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,GAAG,EAAE,MAAM,CAAC;IACZ,KAAK,EAAE,MAAM,CAAC;CACjB"}

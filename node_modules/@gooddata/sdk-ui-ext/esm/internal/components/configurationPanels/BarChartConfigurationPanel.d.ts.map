@@ -1,0 +1,1 @@
+{"version":3,"file":"BarChartConfigurationPanel.d.ts","sourceRoot":"","sources":["../../../../src/internal/components/configurationPanels/BarChartConfigurationPanel.tsx"],"names":[],"mappings":"AACA,OAAO,2BAA2B,MAAM,+BAA+B,CAAC;AAGxE,MAAM,CAAC,OAAO,OAAO,0BAA2B,SAAQ,2BAA2B;IAC/E,SAAS,CAAC,oBAAoB,CAAC,IAAI,EAAE,MAAM,GAAG,GAAG,EAAE;CAGtD"}

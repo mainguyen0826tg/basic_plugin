@@ -1,0 +1,1 @@
+{"version":3,"file":"domNative.d.ts","sourceRoot":"","sources":["../../src/typings/domNative.ts"],"names":[],"mappings":"AAEA;;GAEG;AACH,MAAM,WAAW,UAAU;IACvB,KAAK,EAAE,CAAC,OAAO,CAAC,EAAE;QAAE,aAAa,CAAC,EAAE,OAAO,CAAA;KAAE,KAAK,IAAI,CAAC;CAC1D;AAED;;GAEG;AACH,MAAM,WAAW,eAAe;IAC5B,SAAS,CAAC,EAAE,OAAO,CAAC;CACvB"}

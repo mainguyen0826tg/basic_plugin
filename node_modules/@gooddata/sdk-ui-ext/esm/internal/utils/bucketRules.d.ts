@@ -1,0 +1,27 @@
+import { IBucketOfFun, IReferencePoint, IFilters } from "../interfaces/Visualization";
+export declare function hasOneMeasure(buckets: IBucketOfFun[]): boolean;
+export declare function getMasterMeasuresCount(buckets: IBucketOfFun[], bucketLocalIdentifier: string): number;
+export declare function hasOneMasterMeasureInBucket(buckets: IBucketOfFun[], bucketLocalIdentifier: string): boolean;
+export declare function filteredByDerivedMeasure(buckets: IBucketOfFun[], filters: IFilters): boolean;
+export declare function hasNoMeasures(buckets: IBucketOfFun[]): boolean;
+export declare function hasNoSecondaryMeasures(buckets: IBucketOfFun[]): boolean;
+export declare function hasNoAttribute(buckets: IBucketOfFun[]): boolean;
+export declare function hasSomeSegmentByItems(buckets: IBucketOfFun[]): boolean;
+export declare function hasMoreThanOneCategory(buckets: IBucketOfFun[]): boolean;
+export declare function hasMoreThanOneMasterMeasure(buckets: IBucketOfFun[], bucketLocalIdentifier: string): boolean;
+export declare function hasGlobalDateFilterIgnoreAllTime(filters: IFilters): boolean;
+export declare function hasGlobalDateFilter(filters: IFilters): boolean;
+export declare function hasUsedDateIgnoreAllTime(buckets: IBucketOfFun[], filters: IFilters): boolean;
+export declare function hasUsedDate(buckets: IBucketOfFun[], filters: IFilters): boolean;
+export declare function hasNoStacks(buckets: IBucketOfFun[]): boolean;
+export declare function hasNoStacksWithDate(buckets: IBucketOfFun[]): boolean;
+export declare function hasOneCategory(buckets: IBucketOfFun[]): boolean;
+export declare function noDerivedMeasurePresent(buckets: IBucketOfFun[]): boolean;
+export declare function hasNonAllTimeFilter(filters: IFilters): boolean;
+export declare function isShowInPercentAllowed(buckets: IBucketOfFun[], filters: IFilters, bucketLocalIdentifier: string): boolean;
+export declare function isComparisonOverTimeAllowed(buckets: IBucketOfFun[], filters: IFilters, weekFiltersEnabled: boolean): boolean;
+export declare function overTimeComparisonRecommendationEnabled(referencePoint: IReferencePoint, weekFiltersEnabled: boolean): boolean;
+export declare function comparisonAndTrendingRecommendationEnabled(buckets: IBucketOfFun[]): boolean;
+export declare function percentRecommendationEnabled(buckets: IBucketOfFun[], filters: IFilters): boolean;
+export declare function previousPeriodRecommendationEnabled(buckets: IBucketOfFun[]): boolean;
+//# sourceMappingURL=bucketRules.d.ts.map

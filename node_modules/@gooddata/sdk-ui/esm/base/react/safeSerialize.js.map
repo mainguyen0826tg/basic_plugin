@@ -1,0 +1,1 @@
+{"version":3,"file":"safeSerialize.js","sourceRoot":"","sources":["../../../src/base/react/safeSerialize.ts"],"names":[],"mappings":"AAAA,qCAAqC;AAErC;;;;;;GAMG;AACH,MAAM,UAAU,aAAa,CAAC,GAAY;IACtC,IAAI;QACA,OAAO,IAAI,CAAC,SAAS,CAAC,GAAG,CAAC,CAAC;KAC9B;IAAC,WAAM;QACJ,OAAO,EAAE,CAAC;KACb;AACL,CAAC"}

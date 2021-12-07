@@ -1,0 +1,1 @@
+{"version":3,"file":"typings.d.ts","sourceRoot":"","sources":["../../src/DateDatasets/typings.ts"],"names":[],"mappings":"AAEA;;GAEG;AACH,MAAM,WAAW,YAAY;IACzB,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,SAAS,CAAC,EAAE,MAAM,CAAC;CACtB;AAED;;GAEG;AACH,MAAM,WAAW,kBAAkB;IAC/B,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,QAAQ,CAAC;CAClB"}

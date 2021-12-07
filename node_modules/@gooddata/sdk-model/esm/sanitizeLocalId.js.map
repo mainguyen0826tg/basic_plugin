@@ -1,0 +1,1 @@
+{"version":3,"file":"sanitizeLocalId.js","sourceRoot":"","sources":["../src/sanitizeLocalId.ts"],"names":[],"mappings":"AAAA,gCAAgC;AAEhC;;;;GAIG;AACH,MAAM,UAAU,eAAe,CAAC,UAAkB;IAC9C,OAAO,UAAU,CAAC,OAAO,CAAC,iBAAiB,EAAE,GAAG,CAAC,CAAC;AACtD,CAAC"}

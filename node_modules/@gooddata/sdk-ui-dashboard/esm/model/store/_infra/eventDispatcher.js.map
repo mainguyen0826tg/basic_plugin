@@ -1,0 +1,1 @@
+{"version":3,"file":"eventDispatcher.js","sourceRoot":"","sources":["../../../../src/model/store/_infra/eventDispatcher.ts"],"names":[],"mappings":"AAAA,gCAAgC;AAEhC,OAAO,EAAE,GAAG,EAAa,MAAM,oBAAoB,CAAC;AAGpD;;;;GAIG;AACH,MAAM,UAAU,sBAAsB,CAClC,KAA8C;IAE9C,OAAO,GAAG,CAAC,KAAK,CAAC,CAAC;AACtB,CAAC"}

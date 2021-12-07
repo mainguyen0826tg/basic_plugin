@@ -1,0 +1,1 @@
+{"version":3,"file":"HeadlinePagination.d.ts","sourceRoot":"","sources":["../../src/compactSize/HeadlinePagination.tsx"],"names":[],"mappings":"AACA,OAAO,KAAmB,MAAM,OAAO,CAAC;AAIxC;;GAEG;AACH,MAAM,WAAW,wBAAwB;IACrC,mBAAmB,EAAE,MAAM,GAAG,CAAC,OAAO,CAAC;IACvC,kBAAkB,EAAE,MAAM,GAAG,CAAC,OAAO,CAAC;CACzC;AAED;;GAEG;AACH,eAAO,MAAM,kBAAkB,EAAE,KAAK,CAAC,EAAE,CAAC,wBAAwB,CAiBjE,CAAC"}

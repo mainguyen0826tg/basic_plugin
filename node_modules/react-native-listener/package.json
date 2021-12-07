@@ -1,0 +1,68 @@
+{
+  "name": "react-native-listener",
+  "description": "A utility component to allow easy access to browser native events",
+  "version": "1.1.0",
+  "homepage": "https://github.com/erikras/react-native-listener",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/erikras/react-native-listener.git"
+  },
+  "scripts": {
+    "build": "npm run build:lib && npm run build:umd && npm run build:umd:min",
+    "build:lib": "babel src --out-dir lib",
+    "build:umd": "webpack src/index.js dist/react-native-listener.js --config webpack.config.development.js",
+    "build:umd:min": "webpack src/index.js dist/react-native-listener.min.js --config webpack.config.production.js",
+    "clean": "rimraf dist lib",
+    "lint": "eslint src",
+    "prepublish": "npm run lint && npm run test && npm run clean && npm run build"
+  },
+  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
+  "license": "MIT",
+  "bugs": {
+    "url": "git://github.com/erikras/react-native-listener/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "react",
+    "event",
+    "listener",
+    "native",
+    "reactjs",
+    "browser"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-es2015-no-commonjs": "^0.0.2",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-config-react-app": "^0.6.2",
+    "eslint-plugin-flowtype": "^2.32.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "flow-bin": "^0.45.0",
+    "prop-types": "^15.5.8",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "rifraf": "^2.0.3",
+    "rimraf": "^2.6.1",
+    "webpack": "^2.5.0"
+  },
+  "npmName": "react-native-listener",
+  "npmFileMap": [
+    {
+      "basePath": "/dist/",
+      "files": [
+        "*.js"
+      ]
+    }
+  ]
+}

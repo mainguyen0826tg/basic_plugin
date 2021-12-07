@@ -1,0 +1,1 @@
+{"version":3,"file":"VisualizationObjectConverter.d.ts","sourceRoot":"","sources":["../../../../../src/convertors/fromBackend/visualizationObjects/v1/VisualizationObjectConverter.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,kBAAkB,EAAE,MAAM,qBAAqB,CAAC;AACzD,OAAO,EAAE,0BAA0B,EAAE,MAAM,4BAA4B,CAAC;AAIxE,wBAAgB,0BAA0B,CACtC,mBAAmB,EAAE,0BAA0B,CAAC,oBAAoB,GACrE,kBAAkB,CAWpB"}

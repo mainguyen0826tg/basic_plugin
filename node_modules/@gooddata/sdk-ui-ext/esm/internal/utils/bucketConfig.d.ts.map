@@ -1,0 +1,1 @@
+{"version":3,"file":"bucketConfig.d.ts","sourceRoot":"","sources":["../../../src/internal/utils/bucketConfig.ts"],"names":[],"mappings":"AAUA,OAAO,EAAgC,uBAAuB,EAAE,MAAM,6BAA6B,CAAC;AAqBpG,wBAAgB,2BAA2B,CACvC,sBAAsB,EAAE,uBAAuB,EAC/C,kBAAkB,EAAE,OAAO,GAC5B,uBAAuB,CA2CzB;AAMD,wBAAgB,gBAAgB,CAC5B,sBAAsB,EAAE,uBAAuB,EAC/C,eAAe,GAAE,OAAe,GACjC,uBAAuB,CA0BzB"}
